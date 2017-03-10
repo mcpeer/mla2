@@ -1,0 +1,5 @@
+- Kernel Selection (4 points). S
+- Robots and SVMs (4 points). P 
+- A benchmark study (3 points). S 
+- Gaussian Processes (2 points). P
+- A mini-data mining challenge (2 points +1 bonus).  P/S
